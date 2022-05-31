@@ -1240,6 +1240,8 @@ font-size: 0.8rem;
 
 .about-section .row img{
   width: 100%;
+  object-fit: cover;
+  max-height: 300px;
   }
 
 .service-green{
